@@ -26,12 +26,13 @@ Alongside open-source tooling, I architect and publish live, production AI agent
 
 | AI Agent / Tool | Capabilities & Architecture | Status |
 | :--- | :--- | :--- |
-| **Write Personalized Cold Emails from Company Websites** | Automated B2B website scraping, company research, and 3-part personalized outreach sequence generation. | Live Product |
-| **Audit Competitor Content & Generate SEO Action Plan** | Multi-step SEO gap analysis and structural content blueprint generator. | Live Product |
-| **Award Winning UI & Brand Architect** | Multi-agent pipeline that researches business positioning to generate bespoke brand systems and React/Tailwind UIs. | Live Product |
-| **Conversion Leak Auditor** | Automated heuristic landing page audit identifying UX friction points and generating A/B test hypotheses. | Live Product |
-| **SERP Hijacker MDX Factory** | End-to-end SEO engine performing TF-IDF gap analysis on competitors and generating publish-ready MDX content. | Live Product |
-| **Daily Crypto Market Briefing & Dashboard** | Automated market data retrieval and structured analyst dashboard generation. | Live Product |
+| **[Write Personalized Cold Emails from Company Websites](https://www.agensi.io/skills/write-personalized-cold-emails-from-company-websites)** | Automated B2B website scraping, company research, and 3-part personalized outreach sequence generation. | Live Product |
+| **[Audit Competitor Content & Generate SEO Action Plan](https://www.agensi.io/skills/audit-competitor-content-generate-seo-action-plan)** | Multi-step SEO gap analysis and structural content blueprint generator. | Live Product |
+| **[Award Winning UI & Brand Architect](https://www.agensi.io/skills/award-winning-ui-brand-architect-react-tailwind)** | Multi-agent pipeline that researches business positioning to generate bespoke brand systems and React/Tailwind UIs. | Live Product |
+| **[Conversion Leak Auditor](https://www.agensi.io/skills/conversion-leak-auditor)** | Automated heuristic landing page audit identifying UX friction points and generating A/B test hypotheses. | Live Product |
+| **[SERP Hijacker MDX Factory](https://www.agensi.io/skills/serp-hijacker-mdx-factory)** | End-to-end SEO engine performing TF-IDF gap analysis on competitors and generating publish-ready MDX content. | Live Product |
+| **[Daily Crypto Market Briefing & Dashboard](https://www.agensi.io/skills/generate-a-daily-crypto-market-briefing-dashboard)** | Automated market data retrieval and structured analyst dashboard generation. | Live Product |
+| **[The "Zero Tell" Human Copywriter & Sales Architect](https://www.agensi.io/skills/the-zero-tell-human-copywriter-sales-architect)** | Dual-agent B2B copywriting system that drafts sales copy and strips out robotic AI buzzwords. | Live Product |
 
 ---
 
