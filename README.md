@@ -7,7 +7,7 @@ I design and ship production-ready AI agent workflows, event-driven ETL pipeline
 - 🔭 **Currently building:** Commercial multi-agent AI tools on [Agensi.io](https://www.agensi.io) & autonomous data pipelines
 - 🛠️ **Core Stack:** Python (FastAPI, BeautifulSoup4, Pydantic), LangChain, Gemini / OpenAI APIs, n8n, Zapier, SQL (MySQL/PostgreSQL), Docker, Git
 - 📊 **LLMOps & Reliability:** Prompt engineering, structured JSON validation, and latency/token cost tracing via LangSmith
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/fauzan-akbar-ramadhan-254b33446/) • fauzanakbarramadhan@gmail.com
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/fauzan-akbar-ramadhan-254b33446/) • akb.fauzan@gmail.com
 
 ---
 
